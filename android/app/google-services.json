@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037762685370",
+    "project_id": "khoder-a6de8",
+    "storage_bucket": "khoder-a6de8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037762685370:android:c7447e8459e84fb9cf5583",
+        "android_client_info": {
+          "package_name": "com.example.khoder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwgC4fiBx2S20NK7QNypwwBReI9Wi8pV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
